@@ -1,6 +1,6 @@
 # Bright Data's Mexico Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/mx) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/mx) 
 
 ## 개요
 정밀한 타기팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Mexico proxies](https://brightdata.co.kr/locations/mx)로 원활한 スクレイピングを体験してください. 멕시코에서 웹サイトをスクレイピング하고 다시는 차단당하지 마십시오.
@@ -39,7 +39,7 @@
 - **3G/4G/5G モバイルプロキシ IPs**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/mx) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/mx) 
 
 ## Bright Data's Mexico proxies 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
